@@ -1,2 +1,2 @@
 # calculation-js
-Module with popular mathematical calculations
+Module with mathematical popular functions

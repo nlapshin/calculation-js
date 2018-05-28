@@ -1,0 +1,22 @@
+{
+  "name": "calculation-js",
+  "version": "1.0.0",
+  "description": "Module with mathematical popular functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakot4/calculation-js.git"
+  },
+  "author": "Nikolay Lapshin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rakot4/calculation-js/issues"
+  },
+  "homepage": "https://github.com/Rakot4/calculation-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
