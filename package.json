@@ -1,6 +1,6 @@
 {
   "name": "calculation-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module with mathematical popular functions",
   "main": "index.js",
   "scripts": {
